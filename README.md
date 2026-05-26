@@ -103,12 +103,33 @@ Campos principales:
 # 📸 Evidencias del sistema
 
 El proyecto incluye pruebas funcionales relacionadas con:
+## Registro de empleados
 
-- Registro de empleados
-- Búsquedas dinámicas
-- Actualización de datos
-- Eliminación de registros
-- Verificación en MySQL
+![Registro](img/guardar.png)
+
+---
+
+## Búsqueda de empleados
+
+![Busqueda](img/busqueda.png)
+
+---
+
+## Actualización de empleados
+
+![Actualizar](img/actualizar.png)
+
+---
+
+## Eliminación de empleados
+
+![Eliminar](img/eliminar.png)
+
+---
+
+## Verificación en MySQL
+
+![MySQL](img/mysql.png)
 
 ---
 
